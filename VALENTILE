@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Happy Valentine's Day!</title>
+  <style>
+    body {
+      background-color: #ffe6e6;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #990033;
+      text-align: center;
+    }
+    header {
+      background-color: #ffcccc;
+      padding: 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+    }
+    .container {
+      padding: 40px;
+    }
+    .heart {
+      font-size: 100px;
+      margin: 20px;
+      color: #ff4d4d;
+    }
+    .message {
+      font-size: 1.5em;
+      margin: 20px;
+    }
+    footer {
+      background-color: #ffcccc;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+    a {
+      color: #990033;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Happy Valentine's Day!</h1>
+  </header>
+  
+  <div class="container">
+    <div class="heart">❤️</div>
+    <p class="message">Celebrate love, cherish every moment, and let your heart shine today and always!</p>
+    <p><a href="https://www.example.com" target="_blank">Discover More About Love</a></p>
+  </div>
+  
+  <footer>
+    &copy; 2025 Valentine's Day. All rights reserved.
+  </footer>
+</body>
+</html>
